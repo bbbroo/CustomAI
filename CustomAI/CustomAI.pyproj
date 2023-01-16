@@ -39,6 +39,7 @@
     <Folder Include="CustomAI\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CustomAI\templates\404.html" />
     <Content Include="requirements.txt" />
     <Content Include="CustomAI\static\content\bootstrap.css" />
     <Content Include="CustomAI\static\content\bootstrap.min.css" />
