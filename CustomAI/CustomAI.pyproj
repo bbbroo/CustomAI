@@ -35,10 +35,12 @@
     <Folder Include="CustomAI\static\" />
     <Folder Include="CustomAI\static\content\" />
     <Folder Include="CustomAI\static\fonts\" />
+    <Folder Include="CustomAI\static\images\" />
     <Folder Include="CustomAI\static\scripts\" />
     <Folder Include="CustomAI\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CustomAI\static\images\favicon.png" />
     <Content Include="CustomAI\templates\404.html" />
     <Content Include="requirements.txt" />
     <Content Include="CustomAI\static\content\bootstrap.css" />
