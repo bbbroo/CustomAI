@@ -28,7 +28,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
-    <Compile Include="CustomAI\__init__.py" />
     <Compile Include="CustomAI\views.py" />
   </ItemGroup>
   <ItemGroup>
